@@ -1,0 +1,15 @@
+{
+  "name": "rainbowui-accordion",
+  "version": "2.0.9",
+  "description": "RainbowUI Accordion",
+  "main": "./src/index.js",
+  "keywords": [],
+  "author": "RainbowUI Team",
+  "publishConfig": {
+    "registry": "http://repo.ebaotech.com/artifactory/api/npm/npm-all"
+  },
+  "dependencies": {
+    "rainbow-foundation-tools": "^2.0.3",
+    "rainbowui-core": "^2.0.0"
+  }
+}
